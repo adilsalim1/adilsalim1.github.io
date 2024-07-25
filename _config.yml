@@ -42,7 +42,7 @@ social:
     - https://github.com/adilsalim1 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/adil-emmi
 
 # Site Verification Settings
 webmaster_verifications:
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://cdn5.cdn-telegram.org/file/fR4sSJkipYCGpmfT0iTlcK0_iVTLbAhSeEoB7TTtUI3pit2puAGCAHZnn23-kACvd6XMubZHonSNKuNvqi_rgv-e6uY9nDYx5KysF5muQ7ulLv5TyrN3s6kNntgYKDSHjzDi-0q6ZrlvM_FnBlrfJuIek13K5e_o-4jJyCXOIBbjMubEo8d2OdcV6s2pEGTF811CWtTEeahIyXxp67smFnYPXpqDt_dtf3j-aupTswGoIYxy_nTeVHWlkUiose6ovDeqmen4xVBzIc1MKqNc4odjN57smbePFHuC28ngMQEUMc2iUkdwdyCTcYteg0GT5MLaWQuUOFt-vsAZm-Fg_g.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
