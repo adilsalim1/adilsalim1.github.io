@@ -1,7 +1,7 @@
 ---
 title: Headless-HackTheBox Machine Walkthrough
 date: 2024-11-11 12:35:00 +0530
-categories: [Blogs]
+categories: [Walkthroughs]
 tags: [CTF]  # TAG names should always be lowercase
 layout: post
 image:
@@ -13,7 +13,7 @@ image:
 
 I’m excited to share my latest blog post that I’ve published on Medium. If you’re interested in [Reading my blog](https://medium.com/@xUr00U/headless-hackthebox-machine-walkthrough-cf8f7d25d9d6), here’s a brief overview:
 
-## Blog Title: “Docker Container Breakout Part-1"
+## Blog Title: “Headless-HackTheBox Machine Walkthrough"
 
 This post provides a walkthrough of the Headless machine on Hack The Box CTF. Follow the detailed steps to exploit vulnerabilities and achieve root access in this challenge.
 

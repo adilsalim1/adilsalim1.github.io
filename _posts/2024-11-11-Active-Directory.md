@@ -13,7 +13,7 @@ image:
 
 I’m excited to share my latest blog post that I’ve published on Medium. If you’re interested in [Reading my blog](https://medium.com/@xUr00U/how-to-configuring-an-active-directory-lab-using-windows-server-2022-core-b613472a30f1), here’s a brief overview:
 
-## Blog Title: “Docker Container Breakout Part-1"
+## Blog Title: “How to Configuring an Active Directory Lab Using Windows Server 2022 Core"
 
 This post covers configuring an Active Directory lab using Windows Server 2022 Core. Learn how to set up a domain controller and manage Active Directory in a command-line environment.
 
