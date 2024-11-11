@@ -2,7 +2,7 @@
 title: Docker Container Breakout Part-1
 date: 2024-11-11 12:35:00 +0530
 categories: [Blogs]
-tags: [Docker Exploitation]  # TAG names should always be lowercase
+tags: [Privilage Escalation]  # TAG names should always be lowercase
 layout: post
 image:
   path: assets/Images/Docker-Container1.webp
