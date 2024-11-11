@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn5.cdn-telegram.org/file/UxASwzSNM6JOX-kv94CBCONNr8kZ_kHfto4TFSnyIIuUagwqOK7C7al8Kv9h46aHrRkhHUSZaJMUvJBG4bY_4wYnasjqKzg_SRSTyzcwWvy_pQfOSFE7KZ4PjSig6mCoTsV6W6zV1kCwmdUWftXrwfXJLQdi6Y4BBpTECUFp-UGmAu_WWJxR3rTYHERJ8P1KBzNLEdYtUGZAS6c7E3KRx79grrx2CoSBlRARVy_njp5VTo2I_6W09RMCKu2anMOOu7Z1nlaISYGhnAZcwfQe8AZis-QkcEAGCCbaeaIReJ3in1oJBcHzTgHFAagPcN_RkLEtKgfZIAYn4QNHZHL8Mw.jpg
+avatar: assets/Images/Profile.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
