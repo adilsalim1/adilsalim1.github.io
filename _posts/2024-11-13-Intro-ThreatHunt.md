@@ -1,8 +1,8 @@
 ---
 title: Introduction to Threat Hunting
 date: 2024-11-13 12:35:00 +0530
-categories: [Threat Hunting]
-tags: [Purple Teaming]  # TAG names should always be lowercase
+categories: [Purple Teaming]
+tags: [Threat Hunting]  # TAG names should always be lowercase
 layout: post
 image:
   path: assets/Images/Threat-Hunting.webp
