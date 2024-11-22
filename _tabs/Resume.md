@@ -1,3 +1,9 @@
+---
+layout: Resume
+icon: fas fa-info-circle
+order: 5
+---
+
 # Adil Salim
 ## SOC Analyst
 
