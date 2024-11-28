@@ -11,6 +11,16 @@ order: 4
 
 ---
 
+## Personal Profile
+
+Cybersecurity Researcher with 1 year of experience in SOC operations, VAPT, and threat hunting. Proficient in identifying,
+analyzing, and mitigating security threats across web, API, cloud, and network environments. Gained hands-on expertise through
+practical labs and certifications from LetsDefend, CyberDefenders, Security Blue Team, TryHackMe, and HackTheBox. Skilled in
+incident response, log analysis, and security hardening, with a strong commitment to continuous learning and staying updated
+with the latest cybersecurity trends.
+
+---
+
 ## Technical Skills
 
 - **Security Operations Center (SOC):** Experienced with log integration, normalization, and analysis. Worked with open-source IDS/IPS solutions like Snort and Suricata, and familiar with the ELK Stack, Graylog, Grafana, Wazuh, Shuffle SOAR, Sigma, Yara, Mandiant Redline and IOC Editor for threat detection and hunting.
@@ -50,6 +60,7 @@ order: 4
   NIOS
 
 ---
+
 
 ## Certifications
 
