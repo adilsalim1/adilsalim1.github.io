@@ -1,13 +1,14 @@
 ---
 title: My Bug-Hunting Checklist
 date: 2025-01-05 12:35:00 +0530
-categories: [Checklist]
-tags: [Bugbounty]  # TAG names should always be lowercase
+categories: [Web Security]
+tags: [Checklist]  # TAG names should always be lowercase
 layout: post
 image:
-  path: (image.png)
+  path: assets/Images/Bug-Bounty.png
   alt: Bugbounty
 ---
+
 # Bug Bounty Checklist 🛠️
 
 A comprehensive checklist to ensure systematic and thorough testing during bug bounty hunting.
