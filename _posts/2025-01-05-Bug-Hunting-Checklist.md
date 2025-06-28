@@ -16,9 +16,9 @@ A comprehensive checklist to ensure systematic and thorough testing during bug b
 ---
 
 ## 1. **Reconnaissance** 🔍
-- [ ] Identify subdomains (e.g., `subfinder`, `assetfinder`, `amass`)
+- [ ] Identify subdomains (e.g., `subfinder`, `assetfinder`, `amass`, `crt.sh`, `github-subdomains`, `massdns`, `shuffledns`, `dnsx`, `subbrute`, `ffuf`)
 - [ ] Perform DNS enumeration (`dnsrecon`, `dnsx`)
-- [ ] Check for wildcard subdomains
+- [ ] URL Discovery (`gau`, `waybackurls`, `katana`, `hakrawler`, `Gospider`) 
 - [ ] Scrape public sources for information (`github-dorks`, `shodan`, `censys`)
 - [ ] Gather WHOIS information
 
@@ -40,6 +40,7 @@ A comprehensive checklist to ensure systematic and thorough testing during bug b
 - [ ] Analyze forgot/reset password flows
 
 ### b. **Input Validation**
+
 - [ ] Test for SQL Injection (`sqlmap`, manual payloads)
 - [ ] Test for XSS (Reflected, Stored, DOM-based)
 - [ ] Check for file upload vulnerabilities
