@@ -6,7 +6,7 @@ order: 4
 
 # Adil Salim
 ## Security Operations Engineer - OLA
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=701249" style='border:none;'></iframe>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=701249"></iframe>
 [Phone: +91 7994779505](tel:+917994779505) | [adilsaleemkuruvattoor@gmail.com](mailto:adilsaleemkuruvattoor@gmail.com) | [Linkedin](https://www.linkedin.com/in/adil-emmi/) | [Github](https://github.com/adilsalim1) | [Medium Blog](https://medium.com/@xUr00U)
 
 ---
