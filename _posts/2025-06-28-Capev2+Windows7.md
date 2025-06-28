@@ -10,17 +10,17 @@ image:
 ---
 
 
-# 🛠️ Complete CAPEv2 Setup Using VirtualBox (Ubuntu + Windows 7)
+#  Complete CAPEv2 Setup Using VirtualBox (Ubuntu + Windows 7)
 
 ---
 
-## 📘 Overview
+##  Overview
 
 This guide sets up CAPEv2 on an Ubuntu VM (controller) and uses a Windows 7 VM (sandbox) in a VirtualBox environment. Both VMs run in parallel. Ubuntu has internet access; Windows 7 is isolated and communicates only via a host-only network.
 
 ---
 
-## 🖥️ VM Roles
+##  VM Roles
 
 | VM         | Role               | Internet | IP Address       | Notes                          |
 |------------|--------------------|----------|------------------|--------------------------------|
@@ -39,11 +39,11 @@ sudo ip addr add 192.168.56.1/24 dev vboxnet0
 sudo ip link set vboxnet0 up
 ```
 
-> 💡 This sets up `vboxnet0` interface for host-only communication between VMs.
+>  This sets up `vboxnet0` interface for host-only communication between VMs.
 
 ---
 
-## 🔌 VirtualBox VM Network Configuration
+##  VirtualBox VM Network Configuration
 
 ### Ubuntu VM
 - Adapter 1: NAT (for internet access)
@@ -55,7 +55,7 @@ sudo ip link set vboxnet0 up
 
 ---
 
-## 🌐 Network Configuration Inside VMs
+##  Network Configuration Inside VMs
 
 ### Ubuntu VM (Controller)
 
@@ -76,7 +76,7 @@ Set static IP manually:
 
 ---
 
-## 🧱 CAPEv2 Installation on Ubuntu
+##  CAPEv2 Installation on Ubuntu
 
 ### 1. Clone and Run Installer
 
@@ -104,7 +104,7 @@ sudo -u postgres psql -c "ALTER DATABASE cape OWNER TO cape;"
 
 ---
 
-## ⚙️ CAPEv2 Configuration for Physical Mode
+##  CAPEv2 Configuration for Physical Mode
 
 ### Configure `cuckoo.conf`
 
@@ -123,7 +123,7 @@ ip = 192.168.56.101
 
 ---
 
-## 🧪 Windows 7 Sandbox Setup
+##  Windows 7 Sandbox Setup
 
 1. Install Python 2.7 and add to PATH.
 2. Download `agent.py` from CAPEv2 repo.
@@ -140,7 +140,7 @@ Expected output:
 
 ---
 
-## 🚀 Running CAPE
+##  Running CAPE
 
 Start services:
 
