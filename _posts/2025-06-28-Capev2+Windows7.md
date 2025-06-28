@@ -5,7 +5,7 @@ categories: [Blogs]
 tags: [Malware Analysis]  # TAG names should always be lowercase
 layout: post
 image:
-  path:![alt Malware Analysis Lab](image-1.png)
+  path: assets/Images/malware-lab.png
   alt: Malware Analysis Lab
 ---
 
