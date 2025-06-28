@@ -90,7 +90,7 @@ sudo ./cape2.sh base $USER | tee cape-install.log
 ### 2. Set Up Poetry Environment
 
 ```bash
-cd ../..
+cd ..
 sudo pip3 install poetry
 poetry install
 sudo -u cape poetry run pip install -r extra/optional_dependencies.txt
