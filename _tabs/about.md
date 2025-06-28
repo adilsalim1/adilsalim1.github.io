@@ -5,7 +5,7 @@ order: 4
 ---
 
 # Adil Salim
-## Cybersecurity Analyst
+## Security Operations Engineer
 
 [Phone: +91 7994779505](tel:+917994779505) | [adilsaleemkuruvattoor@gmail.com](mailto:adilsaleemkuruvattoor@gmail.com) | [Linkedin](https://www.linkedin.com/in/adil-emmi/) | [Github](https://github.com/adilsalim1) | [Medium Blog](https://medium.com/@xUr00U)
 
